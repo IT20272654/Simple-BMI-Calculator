@@ -1,2 +1,2 @@
 # Simple-BMI-Calculator
-Helps to find out the BMI value 
+A simple BMI calculator mobile app allows users to quickly calculate their Body Mass Index by entering their weight and height. The app provides instant feedback on their BMI category (e.g., underweight, normal weight, overweight), helping users assess their overall health. With a user-friendly interface, the app is perfect for tracking weight goals and maintaining a healthy lifestyle, offering results anytime, anywhere.
